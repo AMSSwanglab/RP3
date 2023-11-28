@@ -1,2 +1,2 @@
 # RP3
-Predicting RNA polymerase II transcriptional elongation pausing
+RP3 (RNA Polymerase II Pausing Prediction) is method to predict transcriptional elongation Pol II pausing by integrating multi-omics data.
