@@ -8,7 +8,7 @@ library(lattice)
 
 #Input data
 data <- read.csv("./data/example_data.csv",header = T,row.names=1)
-ppi <- read.csv("./data/ppi.csv",header = F)
+ppi <- read.csv("./data/PPI.csv",header = F)
 cross_tissue_expression <- read.csv("./data/cross_tissue_gene_expression.csv",header = T)
 
 #Set cutoff
