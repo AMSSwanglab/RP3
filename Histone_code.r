@@ -5,7 +5,7 @@ library(pROC)
 library(caret)
 library(lattice)
 
-# input data
+# Input data
 data <- data <- read.csv("./data/example_histone.csv",header=T)
 histone_name <- colnames(data)
 
