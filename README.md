@@ -13,7 +13,7 @@ Version 1.0 Last updated: November 29, 2023
 # Requirements
 R 4.3.2
 
-R package: glmnet, Matrix, foreach, pROC, and PRROC.
+R package: glmnet, Matrix, foreach, caret, lattice, pROC, and PRROC.
 # Reference
 Lixin Ren, Wanbiao Ma, and Yong Wang, Predicting RNA polymerase II transcriptional elongation pausing and associated histone code. In submission.
 
